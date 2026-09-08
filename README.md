@@ -1,5 +1,8 @@
 # ROSA Namespace Provisioner
 
+> [!WARNING]
+> This repository has been retired and will no longer be maintained. It has been moved to [redhat-developer/rhdh-rosa-namespace-provisioner](https://github.com/redhat-developer/rhdh-rosa-namespace-provisioner).
+
 A Kubernetes controller that watches for updates to a specific OpenShift Group resource and automatically manages OpenShift projects (namespaces) for users in that group.
 
 ## Features
